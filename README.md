@@ -2,7 +2,7 @@
 - 👀 I’m interested in minecraft moding
 - 🌱 I’m currently learning java and kotlin
 - 💞️ I’m looking to collaborate on minecraft mods
-- 📫 How to reach me aggeloskiamos26@gmail.com
+- 📫 How to reach me? By dming me on discord @youngplayer56
 - 😄 Pronouns: he/him
   
 
