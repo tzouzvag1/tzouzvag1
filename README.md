@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tzouzvag1
 - 👀 I’m interested in minecraft moding
-- 🌱 I’m currently learning java and kotlin
-- 💞️ I’m looking to collaborate on minecraft mods
+- 🌱 I’m currently learning html/css/js
 - 📫 How to reach me? By dming me on discord @youngplayer56
 - 😄 Pronouns: he/him
   
